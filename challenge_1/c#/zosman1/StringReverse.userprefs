@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{737EF417-3A5A-48AC-8387-39D450ADAE3B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringReverse/Program.cs">
+    <Files>
+      <File FileName="StringReverse/Program.cs" Line="24" Column="13" />
+      <File FileName="StringReverse/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StringReverse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

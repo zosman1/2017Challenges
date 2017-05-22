@@ -1,0 +1,3 @@
+/Users/ZachO/code/StringReverse/StringReverse/bin/Release/StringReverse.exe
+/Users/ZachO/code/StringReverse/StringReverse/obj/x86/Release/StringReverse.csproj.CoreCompileInputs.cache
+/Users/ZachO/code/StringReverse/StringReverse/obj/x86/Release/StringReverse.exe

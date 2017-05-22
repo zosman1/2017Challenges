@@ -1,0 +1,5 @@
+/Users/ZachO/code/StringReverse/StringReverse/bin/Debug/StringReverse.exe
+/Users/ZachO/code/StringReverse/StringReverse/bin/Debug/StringReverse.pdb
+/Users/ZachO/code/StringReverse/StringReverse/obj/x86/Debug/StringReverse.csproj.CoreCompileInputs.cache
+/Users/ZachO/code/StringReverse/StringReverse/obj/x86/Debug/StringReverse.exe
+/Users/ZachO/code/StringReverse/StringReverse/obj/x86/Debug/StringReverse.pdb
